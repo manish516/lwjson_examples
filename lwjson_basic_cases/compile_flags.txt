@@ -1,0 +1,3 @@
+--target=x86_64-w64-windows-gnu
+-I"C:/ProgramData/mingw64/mingw64/include"
+-I"C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include"
